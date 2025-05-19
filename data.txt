@@ -1,0 +1,2 @@
+0|adis|adis123|adisty|18|perempuan|11|senin|ipa|100|100|100|100.00
+1|made|made123|imade|18|laki|1|senin|ipa|100|100|100|0.00
